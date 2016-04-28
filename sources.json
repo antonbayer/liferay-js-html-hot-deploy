@@ -1,0 +1,7 @@
+[{
+	"srcs": [
+		"C:\\source1\\global-lib\\src\\main\\resources\\static",
+		"C:\\source1\\portlet\\src\\main\\webapp\\static"
+	],
+	"dest": "C:\\liferay\\tomcat\\webapps\\portlet\\static"
+}]

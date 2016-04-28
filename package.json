@@ -1,0 +1,18 @@
+{
+	"author": "anton bayer, catalysts gmbh",
+	"name": "hot-reload",
+	"version": "0.0.1",
+	"description": "Hot reload",
+	"homepage": "http://www.catalysts.cc/",
+	"dependencies": {
+		"gulp": "3.9.1",
+		"gulp-watch": "4.3.5",
+		"del": "2.2.0"
+	},
+	"main": "Gulpfile.js",
+	"devDependencies": {},
+	"scripts": {
+		"start": "gulp catSync"
+	},
+	"license": "MIT"
+}
