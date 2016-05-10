@@ -13,8 +13,8 @@ gulp.task('catSync', function() {
 
     try {
         var srcs_dest_s = require(source);
-    } catch (Exception) {
-        console.log(source + " not found.");
+    } catch (e) {
+        console.log(e);
         return;
     }
 
